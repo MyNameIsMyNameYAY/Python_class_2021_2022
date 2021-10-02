@@ -1,0 +1,5 @@
+miles=input('Enter a positive integer in miles: ')
+milesint=int(miles)
+feet=milesint*5280
+feetyay=str(feet)
+print('YAY! ' +feetyay+ ' feet!')
